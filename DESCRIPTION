@@ -1,16 +1,19 @@
 Package: ATI
-Title: What the Package Does (One Line, Title Case)
+Title: Algorithmic trading and investment
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Barry",
+           family = "Quinn",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "b.quinn@qub.ac.uk",
+           comment = c(ORCID = "https://orcid.org/0000-0002-8637-9060"))
+Description: A package for teaching a graduate course in algorithmic trading and investment. The course is based on the emerging field of financial machine learning.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
+Imports: 
+    tibble
