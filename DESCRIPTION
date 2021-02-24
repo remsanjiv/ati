@@ -23,5 +23,7 @@ Imports:
         Matrix,
         xts,
         RMTstat,
+        foreach,
+        ggplot2
 Suggests: 
     learnr
