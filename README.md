@@ -26,4 +26,11 @@ learnr::run_tutorial(package = "ATI")
 
 ## Critical Essay
 This package also includes a RMarkdown template for use in the critical essay assessment.
-Go to File>New>R Markdown... and choose from From Template then Report.
+Go to File>New>R Markdown... and choose from `From Template` then `Report`.
+
+## Datasets
+This package also includes monthly returns for the Top 30 FTSE companies.  You can access this data by runing the following
+
+``` r
+ATI::ftse30_returns_mthly
+```
