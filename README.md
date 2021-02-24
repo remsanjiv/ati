@@ -6,7 +6,7 @@
 
 The goal of ATI is to help student learning about financial machine learning and its application to algorithmic trading and investment.
 
-This package contains templates for reports, and functions and [`learnr`](https://rstudio.github.io/learnr/index.html) workshops using in [*Algorithmic trading and investment*](https://canvas.qub.ac.uk/courses/11744)) taught by [Barry Quinn](https://quinference.com/) inb Queen's Management School. 
+This package contains templates for reports, and functions and workshops using in [*Algorithmic trading and investment*](https://canvas.qub.ac.uk/courses/11744)) taught by [Barry Quinn](https://quinference.com/) inb Queen's Management School. 
 
 ``` r
 remotes::install_github("barryquinn1/ATI")
