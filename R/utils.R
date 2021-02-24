@@ -1,4 +1,4 @@
-
+#' @export
 # Discretisation of a continuous variable
 numBins<-function(nObs,corr=NULL){
   #Optimal
