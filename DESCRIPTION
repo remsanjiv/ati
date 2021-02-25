@@ -24,6 +24,6 @@ Imports:
         xts,
         RMTstat,
         foreach,
-        ggplot2
+        ggplot2,
+        learnr
 Suggests: 
-    learnr
