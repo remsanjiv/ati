@@ -19,7 +19,6 @@ library(corrplot)
 library(tidyverse)
 library(fontawesome)
 library(RColorBrewer)
-library(gradethis)
 library(skimr)
 tutorial_options(exercise.eval = TRUE)
 ```
